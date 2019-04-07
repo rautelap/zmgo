@@ -11,5 +11,5 @@ Goals
 - buffer reuse using sync Pools and custom cache pools for better performance
 - no goroutines are launched in hotpath
 - support for ZMQ events shall be added 
-- support shall start with ZMTP 2.0
+- support shall start with ZMTP 3.0
 
